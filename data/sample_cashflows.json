@@ -1,0 +1,146 @@
+[
+  {
+    "id": "cashflow-001",
+    "exposure": 50604,
+    "signal": 0.22,
+    "urgency": 8
+  },
+  {
+    "id": "cashflow-002",
+    "exposure": 30827,
+    "signal": 0.644,
+    "urgency": 9
+  },
+  {
+    "id": "cashflow-003",
+    "exposure": 77618,
+    "signal": 0.911,
+    "urgency": 4
+  },
+  {
+    "id": "cashflow-004",
+    "exposure": 82573,
+    "signal": 0.6,
+    "urgency": 1
+  },
+  {
+    "id": "cashflow-005",
+    "exposure": 79464,
+    "signal": 0.727,
+    "urgency": 1
+  },
+  {
+    "id": "cashflow-006",
+    "exposure": 14856,
+    "signal": 0.633,
+    "urgency": 6
+  },
+  {
+    "id": "cashflow-007",
+    "exposure": 42958,
+    "signal": 0.197,
+    "urgency": 8
+  },
+  {
+    "id": "cashflow-008",
+    "exposure": 89352,
+    "signal": 0.492,
+    "urgency": 8
+  },
+  {
+    "id": "cashflow-009",
+    "exposure": 13198,
+    "signal": 0.942,
+    "urgency": 1
+  },
+  {
+    "id": "cashflow-010",
+    "exposure": 7828,
+    "signal": 0.1,
+    "urgency": 8
+  },
+  {
+    "id": "cashflow-011",
+    "exposure": 2750,
+    "signal": 0.329,
+    "urgency": 9
+  },
+  {
+    "id": "cashflow-012",
+    "exposure": 69291,
+    "signal": 0.763,
+    "urgency": 2
+  },
+  {
+    "id": "cashflow-013",
+    "exposure": 64597,
+    "signal": 0.66,
+    "urgency": 3
+  },
+  {
+    "id": "cashflow-014",
+    "exposure": 69369,
+    "signal": 0.317,
+    "urgency": 3
+  },
+  {
+    "id": "cashflow-015",
+    "exposure": 76207,
+    "signal": 0.627,
+    "urgency": 5
+  },
+  {
+    "id": "cashflow-016",
+    "exposure": 25313,
+    "signal": 0.252,
+    "urgency": 7
+  },
+  {
+    "id": "cashflow-017",
+    "exposure": 34495,
+    "signal": 0.824,
+    "urgency": 9
+  },
+  {
+    "id": "cashflow-018",
+    "exposure": 66480,
+    "signal": 0.316,
+    "urgency": 9
+  },
+  {
+    "id": "cashflow-019",
+    "exposure": 32399,
+    "signal": 0.166,
+    "urgency": 6
+  },
+  {
+    "id": "cashflow-020",
+    "exposure": 22580,
+    "signal": 0.547,
+    "urgency": 9
+  },
+  {
+    "id": "cashflow-021",
+    "exposure": 40735,
+    "signal": 0.66,
+    "urgency": 8
+  },
+  {
+    "id": "cashflow-022",
+    "exposure": 24792,
+    "signal": 0.519,
+    "urgency": 6
+  },
+  {
+    "id": "cashflow-023",
+    "exposure": 86246,
+    "signal": 0.213,
+    "urgency": 7
+  },
+  {
+    "id": "cashflow-024",
+    "exposure": 25392,
+    "signal": 0.594,
+    "urgency": 6
+  }
+]
